@@ -1,0 +1,12 @@
+{
+  "name": "02.doing",
+  "version": "1.0.0",
+  "description": "Esta carpeta contiene los ejercicios prácticos que se realizarán durante las sesiones presenciales, organizados por semana. Cada ejercicio está diseñado para reforzar los conceptos aprendidos en las prácticas guiadas y aplicar NodeJS en diferentes escenarios del mundo real.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
